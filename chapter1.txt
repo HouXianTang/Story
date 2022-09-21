@@ -7,8 +7,10 @@ By Veejay: Hello guyw1
 
 
 By Amirul: I am trying to edit again
+
 By Veejay: Hello guys2, let's edit this text doc.
 
-Hello guys
-Hello guys..Hello guys..Hello guys...Hello guys..Hello guys
-lol..hi..Hello..hi..Hello..hi.
+//merged using houxian branch
+
+//This will be new branch to merge;
+
